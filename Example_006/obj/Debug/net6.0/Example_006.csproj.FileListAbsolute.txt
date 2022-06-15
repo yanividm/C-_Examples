@@ -1,0 +1,15 @@
+/Users/pischuha/Desktop/Examples/Example_006/bin/Debug/net6.0/Example_006
+/Users/pischuha/Desktop/Examples/Example_006/bin/Debug/net6.0/Example_006.deps.json
+/Users/pischuha/Desktop/Examples/Example_006/bin/Debug/net6.0/Example_006.runtimeconfig.json
+/Users/pischuha/Desktop/Examples/Example_006/bin/Debug/net6.0/Example_006.dll
+/Users/pischuha/Desktop/Examples/Example_006/bin/Debug/net6.0/Example_006.pdb
+/Users/pischuha/Desktop/Examples/Example_006/obj/Debug/net6.0/Example_006.csproj.AssemblyReference.cache
+/Users/pischuha/Desktop/Examples/Example_006/obj/Debug/net6.0/Example_006.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pischuha/Desktop/Examples/Example_006/obj/Debug/net6.0/Example_006.AssemblyInfoInputs.cache
+/Users/pischuha/Desktop/Examples/Example_006/obj/Debug/net6.0/Example_006.AssemblyInfo.cs
+/Users/pischuha/Desktop/Examples/Example_006/obj/Debug/net6.0/Example_006.csproj.CoreCompileInputs.cache
+/Users/pischuha/Desktop/Examples/Example_006/obj/Debug/net6.0/Example_006.dll
+/Users/pischuha/Desktop/Examples/Example_006/obj/Debug/net6.0/refint/Example_006.dll
+/Users/pischuha/Desktop/Examples/Example_006/obj/Debug/net6.0/Example_006.pdb
+/Users/pischuha/Desktop/Examples/Example_006/obj/Debug/net6.0/Example_006.genruntimeconfig.cache
+/Users/pischuha/Desktop/Examples/Example_006/obj/Debug/net6.0/ref/Example_006.dll
