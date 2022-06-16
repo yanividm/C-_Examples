@@ -1,0 +1,15 @@
+/Users/pischuha/Desktop/С# курс/Examples/Example_010/bin/Debug/net6.0/Seminar01
+/Users/pischuha/Desktop/С# курс/Examples/Example_010/bin/Debug/net6.0/Seminar01.deps.json
+/Users/pischuha/Desktop/С# курс/Examples/Example_010/bin/Debug/net6.0/Seminar01.runtimeconfig.json
+/Users/pischuha/Desktop/С# курс/Examples/Example_010/bin/Debug/net6.0/Seminar01.dll
+/Users/pischuha/Desktop/С# курс/Examples/Example_010/bin/Debug/net6.0/Seminar01.pdb
+/Users/pischuha/Desktop/С# курс/Examples/Example_010/obj/Debug/net6.0/Seminar01.csproj.AssemblyReference.cache
+/Users/pischuha/Desktop/С# курс/Examples/Example_010/obj/Debug/net6.0/Seminar01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pischuha/Desktop/С# курс/Examples/Example_010/obj/Debug/net6.0/Seminar01.AssemblyInfoInputs.cache
+/Users/pischuha/Desktop/С# курс/Examples/Example_010/obj/Debug/net6.0/Seminar01.AssemblyInfo.cs
+/Users/pischuha/Desktop/С# курс/Examples/Example_010/obj/Debug/net6.0/Seminar01.csproj.CoreCompileInputs.cache
+/Users/pischuha/Desktop/С# курс/Examples/Example_010/obj/Debug/net6.0/Seminar01.dll
+/Users/pischuha/Desktop/С# курс/Examples/Example_010/obj/Debug/net6.0/refint/Seminar01.dll
+/Users/pischuha/Desktop/С# курс/Examples/Example_010/obj/Debug/net6.0/Seminar01.pdb
+/Users/pischuha/Desktop/С# курс/Examples/Example_010/obj/Debug/net6.0/Seminar01.genruntimeconfig.cache
+/Users/pischuha/Desktop/С# курс/Examples/Example_010/obj/Debug/net6.0/ref/Seminar01.dll
